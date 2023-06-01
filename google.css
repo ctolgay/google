@@ -1,0 +1,33 @@
+.img {
+    text-align: center;
+}
+
+.d1 {
+    margin: 0 75px;
+    background-color: rgb(238, 238, 238);
+}
+
+.d2 {
+
+    width: 35%;
+    background-color: rgb(126, 229, 218);
+    text-align: center;
+
+}
+
+.d3 {
+    background-color: rgb(112, 204, 194);
+    width: 30%;
+    text-align: center;
+}
+
+.d {
+    margin: 0 75px;
+    display: flex;
+}
+
+.d4 {
+    background-color: rgb(98, 179, 170);
+    width: 35%;
+    text-align: center;
+}
